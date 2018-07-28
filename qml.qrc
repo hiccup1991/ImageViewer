@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>MyViewer/GIFViewer.qml</file>
+        <file>MyViewer/PNGViewer.qml</file>
+    </qresource>
+</RCC>
